@@ -26,10 +26,10 @@ The report includes the following slides:
 
 ## 📁 Files
 
-- `nz-house-market.pdf`: Final presentation (Keynote export)
+- `slides/nz-housing-visualization.pdf`: Final presentation (Keynote export)
 - `plots/`: All visualizations in PNG format
 - `data/`: Source data (CSV format)
-- `plot_all_slides.R`: Full script used to generate all figures
+- `scripts/nz_housing_viz_final.R`: Main script used to generate all figures
 
 ## 🔍 Data Sources
 
